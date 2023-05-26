@@ -13,10 +13,12 @@ Will work with minimum requirements Python 3.9.16 | Matplotlib 3.6.2 | Numpy 1.2
 Investigating the relationship between happiness and other factors around the world, including a prediction of what would happen to human happiness if life expectancy increased.
 ![Correlation heatmap](https://github.com/flbonanni/machine_learning/blob/main/World%20happiness%20database/img/correlation%20heatmap.png?raw=true)
 ![Life expectancy to happiness](https://github.com/flbonanni/machine_learning/blob/main/World%20happiness%20database/img/life%20expectancy%20to%20happiness.png?raw=true)
-## 🥪 Food consumption
 ## ❄ Daily minimum temperature
 Analysing the trend of temperatures in Melbourne and predicting one year into the future.
 ![Months trend](https://github.com/flbonanni/machine_learning/blob/main/Daily%20minimum%20temperatures/img/months_trend.png?raw=true)
 ![One year prediction](https://github.com/flbonanni/machine_learning/blob/main/Daily%20minimum%20temperatures/img/one_year_prediction.png?raw=true)
 ## 🚢 Titanic
 ## 🏡 Housing
+Starting from housing data of the Seattle and King County, WA area between May 2014 and 2015, and creating a linear regression model to generate a house price according to parameters such as a sq ft, number of bathrooms, view, etc.
+![Bathrooms to price](https://github.com/flbonanni/machine_learning/blob/main/Housing%20data/img/bathrooms_to_price.png?raw=true)
+![Sq ft to price](https://github.com/flbonanni/machine_learning/blob/main/Housing%20data/img/sqft_to_price.png?raw=true)
