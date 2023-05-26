@@ -15,5 +15,8 @@ Investigating the relationship between happiness and other factors around the wo
 ![Life expectancy to happiness](https://github.com/flbonanni/machine_learning/blob/main/World%20happiness%20database/img/life%20expectancy%20to%20happiness.png?raw=true)
 ## 🥪 Food consumption
 ## ❄ Daily minimum temperature
+Analysing the trend of temperatures in Melbourne and predicting one year into the future.
+![Months trend](https://github.com/flbonanni/machine_learning/blob/main/Daily%20minimum%20temperatures/img/months_trend.png?raw=true)
+![One year prediction](https://github.com/flbonanni/machine_learning/blob/main/Daily%20minimum%20temperatures/img/one_year_prediction.png?raw=true)
 ## 🚢 Titanic
 ## 🏡 Housing
