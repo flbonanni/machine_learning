@@ -18,6 +18,9 @@ Analysing the trend of temperatures in Melbourne and predicting one year into th
 ![Months trend](https://github.com/flbonanni/machine_learning/blob/main/Daily%20minimum%20temperatures/img/months_trend.png?raw=true)
 ![One year prediction](https://github.com/flbonanni/machine_learning/blob/main/Daily%20minimum%20temperatures/img/one_year_prediction.png?raw=true)
 ## 🚢 Titanic
+Building a model to 'predict' who was more likely to survive the Titanic
+![Confusion matrix](https://github.com/flbonanni/machine_learning/blob/main/Titanic%20database/confusion%20matrix.png?raw=true)
+![ROC](https://github.com/flbonanni/machine_learning/blob/main/Titanic%20database/ROC.png?raw=true)
 ## 🏡 Housing
 Starting from housing data of the Seattle and King County, WA area between May 2014 and 2015, and creating a linear regression model to generate a house price according to parameters such as a sq ft, number of bathrooms, view, etc.
 ![Bathrooms to price](https://github.com/flbonanni/machine_learning/blob/main/Housing%20data/img/bathrooms_to_price.png?raw=true)
